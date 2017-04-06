@@ -1,1 +1,1 @@
-This is a small cpp work similar to 8 queen problem.
+This is a small cpp work similar for playing cpp around.
